@@ -1,4 +1,5 @@
-#include<stdio.h>
+include<stdio.h>
+
 char queue[10];
 int front=0,rear=-1;
 char delete();
